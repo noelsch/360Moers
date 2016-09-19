@@ -13,7 +13,7 @@ Haagstr-Kastell-Klosterstr	51.450945, 6.625564	      1930
 Spalte 1 & 2 sind selbsterklärend.
 
 
-Bei Zeile 3 wird es spannend. Hier befindet sich die dazugehörige PanoID die wir für das Deeplinking benötigen.
+Bei Spalte 3 wird es spannend. Hier befindet sich die dazugehörige PanoID die wir für das Deeplinking benötigen.
 
 Das 360°-Panorama lässt sich also wie folgt aufrufen: https://www.360moers.de/tour.html?s=PANOID
 
