@@ -15,7 +15,7 @@ Spalte 1 & 2 sind selbsterklärend.
 
 Bei Spalte 3 wird es spannend. Hier befindet sich die dazugehörige PanoID die wir für das Deeplinking benötigen.
 
-Das 360°-Panorama lässt sich also wie folgt aufrufen: https://www.360moers.de/tour.html?s=PANOID
+Das 360°-Panorama lässt sich also wie folgt aufrufen: https://www.360moers.de/tour.html?s=panoPANOID
 
 Folgende Parameter sind zusätzlich empfehlenswert: &skipintro&html5=only
 
