@@ -24,7 +24,7 @@ Der fertige Deeplink sieht dann so aus: http://www.360moers.de/tour.html?s=pano1
 
 SSL ist auch möglich. Dafür einfach folgende BaseURL verwenden: https://moers-stadtrundgang.telepano.de/
 
-Beispiel: http:/moers-stadtrundgang.telepano.de/tour.html?s=pano1930&skipintro&html5=only
+Beispiel: http://moers-stadtrundgang.telepano.de/tour.html?s=pano1930&skipintro&html5=only
 
 
 Bei Fragen reicht eine kurze Mail an 360moers@telepano.de
