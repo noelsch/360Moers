@@ -6,9 +6,9 @@ HowTo Use
 Beispiel
 
 
-PanoTitle	                  PanoGPS	                  PanoID
+PanoTitle;	                  PanoGPS;	                  PanoID
 
-Haagstr-Kastell-Klosterstr	51.450945, 6.625564	      1930
+Haagstr-Kastell-Klosterstr;	51.450945, 6.625564;	      1930
 
 Spalte 1 & 2 sind selbsterklärend.
 
